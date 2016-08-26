@@ -6,7 +6,7 @@ In this project Udacity students are given a web-based application that reads RS
 ## References
 
 * <a href="http://jasmine.github.io/2.1/introduction.html">Jasmine Documentation</a>
-* [Udacity Forum]  https://www.udacity.com/
+* <a href="https://www.udacity.com/">Udacity Forum</a>
 
 
 
@@ -14,6 +14,6 @@ In this project Udacity students are given a web-based application that reads RS
 
 ## How to run this
 
-Visit the live site [here] 
+Visit the live site <a href"https://joeyl10.github.io/feed-reader/">Here</a>
 
 
