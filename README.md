@@ -5,7 +5,7 @@ In this project Udacity students are given a web-based application that reads RS
 
 ## References
 
-* [Jasmine Documentation] http://jasmine.github.io/2.1/introduction.html
+* <a href="http://jasmine.github.io/2.1/introduction.html">Jasmine Documentation</a>
 * [Udacity Forum]  https://www.udacity.com/
 
 
