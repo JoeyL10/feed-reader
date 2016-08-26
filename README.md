@@ -14,6 +14,6 @@ In this project Udacity students are given a web-based application that reads RS
 
 ## How to run this
 
-Visit the live site <a href"https://joeyl10.github.io/feed-reader/">Here</a>
+[Visit the live site] (https://joeyl10.github.io/feed-reader/)
 
 
